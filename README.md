@@ -1,7 +1,7 @@
 # 🎬 Next.js Video App with Auth & ImageKit
 
-This project is a **Next.js 13 (App Router)** application built with:
-
+## 📄 Project Overview
+This project is a **Next.js(App Router)** application built with:
 - ✅ **NextAuth.js** for authentication  
 - ✅ **MongoDB & Mongoose** for database  
 - ✅ **ImageKit** for video/image upload & transformations  

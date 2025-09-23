@@ -1,6 +1,7 @@
-# 🎬 Next.js Video App with Auth & ImageKit
+# 🎬 VidStream - Next.js Video Platform with Auth & ImageKit
 
 ## 📄 Project Overview
+VidStream is a modern video-sharing web application built using Next.js (App Router) with a secure authentication system and powerful media handling features. It allows users to register, log in, and upload videos/images while leveraging ImageKit for seamless media storage and transformations. The project is designed with TypeScript for type safety, MongoDB for scalable data management, and bcrypt.js for secure password hashing.
 This project is a **Next.js(App Router)** application built with:
 - ✅ **NextAuth.js** for authentication  
 - ✅ **MongoDB & Mongoose** for database  
